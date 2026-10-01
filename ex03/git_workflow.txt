@@ -1,0 +1,6 @@
+The Git Daily Development Workflow:
+1. Edit source files in the local repository.
+2. Check modified files using `git status`.
+3. Stage verified changes using `git add <file>`.
+4. Commit staged changes with a clear message using `git commit -m "type: description"`.
+5. Push local commits to the remote repository on GitHub using `git push`.
